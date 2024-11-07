@@ -1,6 +1,6 @@
 baseURL: ""
 languageCode: en-us
-title: AIRC blogs
+title: RAG-Lab blogs
 theme: PaperMod
 
 markup:
@@ -15,7 +15,7 @@ markup:
 params:
   homeInfoParams:
     Title: "Hello DNV crew!"
-    Content: Welcome to AIRC blog. Here you'll find a lot of cool information about a lot of cool stuff.
+    Content: Welcome to RAG-Lab blog. Here you'll find a lot of cool information about a lot of cool stuff.
   socialIcons:
     - name: github
       url: "https://github.com/adityatelange/hugo-PaperMod"
