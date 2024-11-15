@@ -14,7 +14,7 @@ markup:
 
 params:
   homeInfoParams:
-    Title: "Hello DNV crew!"
+    Title: "Hello LLM guys!"
     Content: Welcome to RAG-Lab blog. Here you'll find a lot of cool information about a lot of cool stuff.
   socialIcons:
     - name: github
