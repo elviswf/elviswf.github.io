@@ -8,6 +8,7 @@ draft = false
     alt = "this is post img"
     caption = "this is the caption"
 
+author = ["Elvis Wu"]
 tags = ["llm", "agent"]
 categories = ["tech"]
 
