@@ -2,16 +2,15 @@
 title = 'Hugo + papermod'
 date = 2024-10-11T17:18:07+08:00
 draft = false
+author = ["Elvis"]
 
 [cover]
     image = "imgs/p1_ch1_1.png"
     alt = "this is post img"
     caption = "this is the caption"
 
-author = ["Elvis Wu"]
 tags = ["llm", "agent"]
 categories = ["tech"]
-
 +++
 
 ## Hugo + papermod
